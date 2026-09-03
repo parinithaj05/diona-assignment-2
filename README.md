@@ -38,4 +38,4 @@ The following functionality was verified:
 
 ## Video Demonstration
 
-Video link: [Add video link here]
+[Click here to view the assignment video](https://drive.google.com/file/d/1P2U70CDKb1bz3YZNr7kUiELLFHGRl1B0/view?usp=sharing)
