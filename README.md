@@ -1,5 +1,12 @@
 # Criminal Risk Assessment Request - ODK XLSForm
 
+## Video Demonstration
+
+The assignment demonstration video explains the XLSForm structure, form logic, validations, and working preview.
+
+[Click here to view the assignment demonstration video](https://drive.google.com/file/d/1P2U70CDKb1bz3YZNr7kUiELLFHGRl1B0/view?usp=sharing)
+
+
 ## Overview
 
 This project contains an ODK XLSForm developed from the provided **Criminal Risk Assessment Request** PDF as part of the Odiona Technologies internship selection assignment.
@@ -181,12 +188,6 @@ The form can be tested using the ODK XLSForm Online tool.
 
 - `Criminal_Risk_Assessment_Request.xlsx` - Completed ODK XLSForm.
 - `README.md` - Project documentation.
-
-## Video Demonstration
-
-The assignment demonstration video explains the XLSForm structure, form logic, validations, and working preview.
-
-[Click here to view the assignment demonstration video](https://drive.google.com/file/d/1P2U70CDKb1bz3YZNr7kUiELLFHGRl1B0/view?usp=sharing)
 
 ## Tools Used
 
