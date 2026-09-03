@@ -1,6 +1,6 @@
 # Criminal Risk Assessment Request - ODK XLSForm
 
-This repository contains the ODK XLSForm developed for the Criminal Risk Assessment Request form provided as part of the Odiona Technologies internship selection assignment.
+This repository contains the ODK XLSForm developed for the Criminal Risk Assessment Request form provided as part of the Diona Technologies internship selection assignment.
 
 ## Files
 
